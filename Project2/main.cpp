@@ -28,7 +28,7 @@ void main()
 		
 
 		reverseNumber_str = "";
-		length = inputNumber_str.size();//.length();
+		length = inputNumber_str.size();
 		for (i = length - 1; i >= 0; i--)
 		{
 			digit = inputNumber_str[i];
